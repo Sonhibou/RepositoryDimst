@@ -3,3 +3,8 @@ body
     background-color: #16a085;
     color :black;
 }
+.sidebar-wrapper ul.nav
+{
+    display: flex;
+
+}
