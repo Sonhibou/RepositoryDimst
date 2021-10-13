@@ -12,3 +12,7 @@ body
 {
     text-decoration: none;
 }
+.sidebar-wrapper ul.nav li a:hover
+{
+    color: blanchedalmond;
+}
