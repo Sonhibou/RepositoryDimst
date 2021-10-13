@@ -8,3 +8,7 @@ body
     display: flex;
 
 }
+.sidebar-wrapper ul.nav li a
+{
+    text-decoration: none;
+}
